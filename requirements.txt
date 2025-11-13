@@ -1,0 +1,12 @@
+numpy>=1.20
+matplotlib>=3.3
+openpyxl>=3.1
+Pillow>=8.0
+scipy>=1.5
+scikit-learn>=0.24
+watchdog>=2.1
+astropy>=5.0
+scikit-image>=0.19
+wxPython>=4.0
+
+thorlabs_tsi_sdk>=1.0

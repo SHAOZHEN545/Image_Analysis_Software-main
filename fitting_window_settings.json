@@ -1,0 +1,20 @@
+{
+  "parameter": {
+    "label": "Parameter",
+    "offset": "0",
+    "unit_scale": "ms",
+    "unit_type": "time"
+  },
+  "parameter2": {
+    "label": "Parameter 2",
+    "offset": "0",
+    "unit_scale": "ms",
+    "unit_type": "time"
+  },
+  "variable": {
+    "label": "TOF",
+    "offset": "0",
+    "unit_scale": "ms",
+    "unit_type": "time"
+  }
+}

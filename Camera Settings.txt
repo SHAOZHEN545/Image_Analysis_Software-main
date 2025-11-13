@@ -1,0 +1,33 @@
+{
+  "camera_count": 2,
+  "panel1_serial": "30559",
+  "panel2_serial": "30631",
+  "30559": {
+    "run_mode": "Hardware Trigger",
+    "mode": "3 Shot Absorption",
+    "exposure_us": 5000,
+    "gain": 0,
+    "black_level": 0,
+    "bin_x": 1,
+    "bin_y": 1,
+    "save_folder": "c:\\Users\\WS1\\Desktop\\Image Network Folder\\2025\\9\\8\\Cs\\",
+    "intensity_window": 10,
+    "intensity_scale": 1.0,
+    "flip_horizontal": false,
+    "flip_vertical": true
+  },
+  "30631": {
+    "run_mode": "Continuous",
+    "mode": "3 Shot Absorption",
+    "exposure_us": 3000,
+    "gain": 0,
+    "black_level": 0,
+    "bin_x": 1,
+    "bin_y": 1,
+    "save_folder": "c:\\Users\\WS1\\Desktop\\Image Network Folder\\2025\\9\\8\\Cs\\",
+    "intensity_window": 10,
+    "intensity_scale": 0.01,
+    "flip_horizontal": false,
+    "flip_vertical": true
+  }
+}
